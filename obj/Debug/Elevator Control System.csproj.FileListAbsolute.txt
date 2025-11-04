@@ -40,3 +40,45 @@ C:\Users\ACER\source\repos\Elevator Control System\obj\Debug\Elevator.6A59B866.U
 C:\Users\ACER\source\repos\Elevator Control System\obj\Debug\Elevator Control System.exe
 C:\Users\ACER\source\repos\Elevator Control System\obj\Debug\Elevator Control System.pdb
 C:\Users\ACER\source\repos\Elevator Control System\obj\Debug\Elevator Control System.exe.config
+C:\Manish_DBA\PCPS\swornim\Elevator\bin\Debug\Elevator Control System.exe.config
+C:\Manish_DBA\PCPS\swornim\Elevator\bin\Debug\Elevator Control System.exe
+C:\Manish_DBA\PCPS\swornim\Elevator\bin\Debug\Elevator Control System.pdb
+C:\Manish_DBA\PCPS\swornim\Elevator\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Manish_DBA\PCPS\swornim\Elevator\bin\Debug\Google.Protobuf.dll
+C:\Manish_DBA\PCPS\swornim\Elevator\bin\Debug\K4os.Compression.LZ4.dll
+C:\Manish_DBA\PCPS\swornim\Elevator\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Manish_DBA\PCPS\swornim\Elevator\bin\Debug\K4os.Hash.xxHash.dll
+C:\Manish_DBA\PCPS\swornim\Elevator\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Manish_DBA\PCPS\swornim\Elevator\bin\Debug\MySql.Data.dll
+C:\Manish_DBA\PCPS\swornim\Elevator\bin\Debug\System.Buffers.dll
+C:\Manish_DBA\PCPS\swornim\Elevator\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Manish_DBA\PCPS\swornim\Elevator\bin\Debug\System.IO.Pipelines.dll
+C:\Manish_DBA\PCPS\swornim\Elevator\bin\Debug\System.Memory.dll
+C:\Manish_DBA\PCPS\swornim\Elevator\bin\Debug\System.Numerics.Vectors.dll
+C:\Manish_DBA\PCPS\swornim\Elevator\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Manish_DBA\PCPS\swornim\Elevator\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Manish_DBA\PCPS\swornim\Elevator\bin\Debug\ZstdSharp.dll
+C:\Manish_DBA\PCPS\swornim\Elevator\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Manish_DBA\PCPS\swornim\Elevator\bin\Debug\Google.Protobuf.pdb
+C:\Manish_DBA\PCPS\swornim\Elevator\bin\Debug\Google.Protobuf.xml
+C:\Manish_DBA\PCPS\swornim\Elevator\bin\Debug\K4os.Compression.LZ4.xml
+C:\Manish_DBA\PCPS\swornim\Elevator\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Manish_DBA\PCPS\swornim\Elevator\bin\Debug\K4os.Hash.xxHash.xml
+C:\Manish_DBA\PCPS\swornim\Elevator\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Manish_DBA\PCPS\swornim\Elevator\bin\Debug\MySql.Data.xml
+C:\Manish_DBA\PCPS\swornim\Elevator\bin\Debug\System.Buffers.xml
+C:\Manish_DBA\PCPS\swornim\Elevator\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Manish_DBA\PCPS\swornim\Elevator\bin\Debug\System.IO.Pipelines.xml
+C:\Manish_DBA\PCPS\swornim\Elevator\bin\Debug\System.Memory.xml
+C:\Manish_DBA\PCPS\swornim\Elevator\bin\Debug\System.Numerics.Vectors.xml
+C:\Manish_DBA\PCPS\swornim\Elevator\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Manish_DBA\PCPS\swornim\Elevator\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Manish_DBA\PCPS\swornim\Elevator\obj\Debug\Elevator Control System.csproj.AssemblyReference.cache
+C:\Manish_DBA\PCPS\swornim\Elevator\obj\Debug\Elevator Control System.exe.config
+C:\Manish_DBA\PCPS\swornim\Elevator\obj\Debug\ElevatorControlSystem.MainForm.resources
+C:\Manish_DBA\PCPS\swornim\Elevator\obj\Debug\Elevator_Control_System.Properties.Resources.resources
+C:\Manish_DBA\PCPS\swornim\Elevator\obj\Debug\Elevator Control System.csproj.GenerateResource.cache
+C:\Manish_DBA\PCPS\swornim\Elevator\obj\Debug\Elevator Control System.csproj.CoreCompileInputs.cache
+C:\Manish_DBA\PCPS\swornim\Elevator\obj\Debug\Elevator.6A59B866.Up2Date
+C:\Manish_DBA\PCPS\swornim\Elevator\obj\Debug\Elevator Control System.exe
+C:\Manish_DBA\PCPS\swornim\Elevator\obj\Debug\Elevator Control System.pdb

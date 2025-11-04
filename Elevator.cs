@@ -81,7 +81,7 @@ namespace ElevatorControlSystem
                 floorYPositions[2] = firstFloorY;
 
                 // Set initial position
-                LiftPanel.Location = new Point(LiftPanel.Location.X, groundFloorY);
+                LiftPanel.Location = new Point(LiftPanel.Location.X, groundFloorY-50);
                 UpdateDisplay();
             }
             catch (Exception ex)
@@ -142,13 +142,13 @@ namespace ElevatorControlSystem
                 {
                     if (!isMoving) break;
 
-                    int newY = startY + (stepSize * i);
+                    int newY = startY + (stepSize * i)-55;
                     SafeInvoke(() => LiftPanel.Location = new Point(LiftPanel.Location.X, newY));
                     await Task.Delay(MoveDelay);
                 }
 
                 // Ensure exact position
-                SafeInvoke(() => LiftPanel.Location = new Point(LiftPanel.Location.X, targetY));
+                //SafeInvoke(() => LiftPanel.Location = new Point(LiftPanel.Location.X, targetY));
 
                 CurrentFloor = targetFloor;
                 CurrentDirection = "STOP";
@@ -244,13 +244,13 @@ namespace ElevatorControlSystem
                     {
                         if (open)
                         {
-                            DoorLeft.Location = new Point(-offset, 0);
-                            DoorRight.Location = new Point(doorWidth + offset, 0);
+                            DoorLeft.Location = new Point(-offset-25, 0);
+                            DoorRight.Location = new Point(doorWidth + offset + 20, 0);
                         }
                         else
                         {
-                            DoorLeft.Location = new Point(-maxOffset + offset, 0);
-                            DoorRight.Location = new Point(doorWidth + maxOffset - offset, 0);
+                            DoorLeft.Location = new Point(-maxOffset + offset + 10, 0);
+                            DoorRight.Location = new Point(doorWidth + maxOffset - offset - 10, 0);
                         }
                     });
                     await Task.Delay(DoorDelay);
